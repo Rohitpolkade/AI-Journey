@@ -1,4 +1,4 @@
-# ai-ds-journey
+# AI-Journey
 Hi, I'm a B.Tech AI & Data Science student.
 
 ## Goals
