@@ -1,4 +1,4 @@
-# Guess the number -->
+# Guess the number 
 '''pc picks a number & we have to pick the same number'''
 '''if our no is less than pc no -->it show result like that ,wise versa'''
 
