@@ -8,21 +8,21 @@ students = [
     {"name" : "Siya", "marks" : 88}
 ]
 
-# for student in students:
-#     if student["marks"] >= 50:
-#         print(student["name"], "has passed the exam")
-#     else:
-#         print(student["name"], "has failed the exam")
+for student in students:
+    if student["marks"] >= 50:
+        print(student["name"], "has passed the exam")
+    else:
+        print(student["name"], "has failed the exam")
 
-# for student in students:
-#     if student["marks"] >= 90:
-#         print(student["name"], "scored A grade")
-#     elif student["marks"] >= 75:
-#         print(student["name"], "scored B grade")
-#     elif student["marks"] >= 50:
-#         print(student["name"], "scored C grade")
-#     else:
-#         print(student["name"], "scored D grade")
+for student in students:
+    if student["marks"] >= 90:
+        print(student["name"], "scored A grade")
+    elif student["marks"] >= 75:
+        print(student["name"], "scored B grade")
+    elif student["marks"] >= 50:
+        print(student["name"], "scored C grade")
+    else:
+        print(student["name"], "scored D grade")
 
 count = 0
 
