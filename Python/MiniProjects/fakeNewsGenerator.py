@@ -1,11 +1,11 @@
 #import random module
 import random
 
-#fake News = subject+ acion + object
+#fake News = subject+ action + object
 #create subjects
 subjects = ["Shahrukh Khan", "Virat Kolhi", "Nirmala Sitharaman", "John Cena", "Naruto Uzumaki", "Narendra Modi", "Vladimir Putin"]
 
-actions = ["eats", "cancels", "launches","decalres war on","orders", "celebrates", "dances"]
+actions = ["eats", "cancels", "launches","declares war on","orders", "celebrates", "dances"]
 
 objects = ["at Red fort", "in Mumbai local train", "samosa", "at ganga river", "IPL match"]
 
