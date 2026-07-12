@@ -1,9 +1,10 @@
 import numpy as np
 
 marks = np.array([10, 20, 30, 40, 50])
-# print("marks:", marks)
-# print(type(marks))
+print("marks:", marks)
+print(type(marks))
 
+<<<<<<< HEAD
 # """operation -- vectorization"""
 # print(marks + 15)
 # print(marks * 2)
@@ -18,10 +19,27 @@ marks = np.array([10, 20, 30, 40, 50])
 # print(np.var(marks))
 # # std - standard deviation
 # print(np.std(marks)) 
+=======
+"""operation -- vectorization"""
+print(marks + 15)
+print(marks * 2)
+print(marks / 5)
+
+"""functions -- statistics"""
+print(np.mean(marks))
+print(np.max(marks))
+print(np.min(marks))
+print(np.sum(marks))
+# var - variance
+print(np.var(marks))
+# std - standard deviation
+print(np.std(marks)) 
+>>>>>>> 74c6d629dada587f7c76ca494bff1384c5c39572
 
 # """Filtering -- Boolean Indexing/ masking"""   
 # print(marks > 30) 
 
+<<<<<<< HEAD
 # mask = marks > 30
 # filteredArr = marks[mask]
 # print(filteredArr)
@@ -49,3 +67,9 @@ print(identityMatrix)
 """Random Numbers"""
 randomArr = np.random.randint(1, 50, 10)
 print(randomArr)
+=======
+mask = marks > 30
+filteredArr = marks[mask]
+print(filteredArr)
+print(marks[marks > 30])
+>>>>>>> 74c6d629dada587f7c76ca494bff1384c5c39572
