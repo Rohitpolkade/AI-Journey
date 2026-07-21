@@ -79,7 +79,7 @@ print(set)
 set2 ={1, 7, 8}
 print(set.union(set2))
 print(set | set2)
-print(set.intersection(set2))/
+print(set.intersection(set2))
 print(set & set2)
 print(set - set2)
 
