@@ -84,18 +84,4 @@ Projects will be added as I complete each learning milestone.
 
 ---
 
-## Progress
-
-| Topic | Status |
-|--------|--------|
-| Python | Completed |
-| NumPy | Completed |
-| Pandas | Completed |
-| Machine Learning | In Progress |
-| Deep Learning | Planned |
-| NLP | Planned |
-| Computer Vision | Planned |
-
----
-
 Thank you for visiting my repository!
